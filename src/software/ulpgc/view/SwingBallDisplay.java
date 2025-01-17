@@ -2,9 +2,6 @@ package software.ulpgc.view;
 
 import javax.swing.*;
 
-import software.ulpgc.view.BallDisplay.Circle;
-import software.ulpgc.view.BallDisplay.Grabbed;
-import software.ulpgc.view.BallDisplay.Released;
 
 import java.awt.*;
 import java.awt.event.MouseEvent;
