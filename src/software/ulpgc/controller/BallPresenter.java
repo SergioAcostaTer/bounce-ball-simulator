@@ -1,6 +1,12 @@
-package software.ulpgc;
+package software.ulpgc.controller;
 
-import software.ulpgc.BallDisplay.Circle;
+import software.ulpgc.model.Ball;
+import software.ulpgc.model.BallColor;
+import software.ulpgc.service.BallSimulator;
+import software.ulpgc.view.BallDisplay;
+import software.ulpgc.view.BallDisplay.Circle;
+import software.ulpgc.view.BallDisplay.Grabbed;
+import software.ulpgc.view.BallDisplay.Released;
 
 import java.util.*;
 

@@ -1,5 +1,10 @@
 package software.ulpgc;
 
+import software.ulpgc.controller.BallPresenter;
+import software.ulpgc.model.Ball;
+import software.ulpgc.service.BallSimulator;
+import software.ulpgc.view.MainFrame;
+
 public class Main {
     public static void main(String[] args) {
         MainFrame mainFrame = new MainFrame();

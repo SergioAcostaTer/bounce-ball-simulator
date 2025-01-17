@@ -1,6 +1,7 @@
-package software.ulpgc;
+package software.ulpgc.view;
 
 import javax.swing.*;
+
 import java.awt.*;
 
 public class MainFrame extends JFrame {

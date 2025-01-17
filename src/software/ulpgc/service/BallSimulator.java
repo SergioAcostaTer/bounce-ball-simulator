@@ -1,4 +1,6 @@
-package software.ulpgc;
+package software.ulpgc.service;
+
+import software.ulpgc.model.Ball;
 
 public class BallSimulator {
     private final double dt;

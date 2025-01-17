@@ -1,6 +1,8 @@
-package software.ulpgc;
+package software.ulpgc.view;
 
 import java.util.List;
+
+import software.ulpgc.model.BallColor;
 
 public interface BallDisplay {
     void draw(List<Circle> circles);
