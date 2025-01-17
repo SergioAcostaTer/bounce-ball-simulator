@@ -37,7 +37,7 @@ sergioacostater-bounce-ball-simulator/
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/SergioAcostaTer/bounce-ball-simulator.git
    cd sergioacostater-bounce-ball-simulator
    ```
 
